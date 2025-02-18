@@ -75,6 +75,84 @@
           <li><a href="https://github.com/Minecatmm/LVHA2"> Ý Nghĩa </a></li>
         </ul>
       </nav></a></li>
+        </ul><!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> BÁO TƯỜNG NGÀY 8/3 </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #daebe5;      
+        }
+        header {
+            text-align: center;
+            background-color: #ad4467;
+            padding: 20px;
+            color: white;
+        }
+        nav ul {
+            list-style: none;
+            text-align: center; 
+            background-color: #cacbe0;
+            padding: 10px 0;
+        }
+        av ul il {
+            display:inline;
+            margin: 0 15px;
+        }
+        main-content {
+            display: grid; 
+            grid-auto-columns: repeat(2, 1fr); 
+        }
+        article {
+            padding:10px;
+            background-color: #f7ebeb;
+            border-radius:8px;
+            text-align:center;
+        }
+        article img {
+            width: 50%;
+            border-radius: 10px;
+        }
+        button {
+            background-color:#d4205c;
+            color: white;
+            border: none;
+            padding: 10px;
+            margin-top: 10px;
+            cursor: pointer;
+            border-radius: 5px;
+            button: hover {background-color: #a1104f;}
+        }
+        footer {
+            text-align: center;
+            background-color: #d9b0b9;
+            padding: 10px;
+            margin-top: 10px;
+            color: white;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+       <header>
+          <h1> ĐÔI LỜI GỬI GẮM NGÀY 8/3 </h1>
+          <p> chào mừng ngày Quốc tế Phụ nữ 8/3</p>
+      </header>
+      <nav>
+        <ul>
+          <li><a href="https://minecatmm.github.io/LVHA1/"> Nguồn gốc </a></li>
+        </ul>
+      </nav></a></li>
+        </ul>
+      </nav>
+      <nav>
+        <ul>
+          <li><a href="https://github.com/Minecatmm/LVHA2"> Ý Nghĩa </a></li>
+        </ul>
+      </nav></a></li>
         </ul>
       </nav>
       <nav>
@@ -84,16 +162,9 @@
       </nav></a></li>
         </ul>
       </nav>
-      <nav>
-        <ul>
-          <li><a href="https://github.com/Minecatmm/LVHA4/commit/6573978faf988ece361d876144d5e7a07d772343"> Video ngắn  </a></li>
-        </ul>
-      </nav></a></li>
-        </ul>
-      </nav>
        <nav>
         <ul>
-          <li><a href="https://minecatmm.github.io/LVHA6/"> Video ngắn  </a></li>
+          <li><a href="https://minecatmm.github.io/LVHA6/"> Những món quà ý nghĩa  </a></li>
         </ul>
       </nav></a></li>
         </ul>
@@ -149,4 +220,3 @@
     </section>
     <footer>
     <p>© báo tường ngày 8/3  - Tạo bởi [Linh,Vân,Huy,Quỳnh Anh 12b4]</p>
-
