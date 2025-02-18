@@ -49,6 +49,57 @@
             button: hover {background-color: #a1104f;}
         }
         footer {
+            text-align: center;<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> BÁO TƯỜNG NGÀY 8/3 </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #daebe5;      
+        }
+        header {
+            text-align: center;
+            background-color: #ad4467;
+            padding: 20px;
+            color: white;
+        }
+        nav ul {
+            list-style: none;
+            text-align: center; 
+            background-color: #cacbe0;
+            padding: 10px 0;
+        }
+        av ul il {
+            display:inline;
+            margin: 0 15px;
+        }
+        main-content {
+            display: grid; 
+            grid-auto-columns: repeat(2, 1fr); 
+        }
+        article {
+            padding:10px;
+            background-color: #f7ebeb;
+            border-radius:8px;
+            text-align:center;
+        }
+        article img {
+            width: 50%;
+            border-radius: 10px;
+        }
+        button {
+            background-color:#d4205c;
+            color: white;
+            border: none;
+            padding: 10px;
+            margin-top: 10px;
+            cursor: pointer;
+            border-radius: 5px;
+            button: hover {background-color: #a1104f;}
+        }
+        footer {
             text-align: center;
             background-color: #d9b0b9;
             padding: 10px;
@@ -62,7 +113,6 @@
        <header>
           <h1> ĐÔI LỜI GỬI GẮM NGÀY 8/3 </h1>
           <p> chào mừng ngày Quốc tế Phụ nữ 8/3</p>
-      </header>
       <nav>
         <ul>
           <li><a href="https://minecatmm.github.io/LVHA1/"> Nguồn gốc </a></li>
@@ -91,6 +141,7 @@
       </nav></a></li>
         </ul>
       </nav>
+  </header>
       <section class="main-content">
         <article>
         <img src="https://cdn.tgdd.vn/Files/2020/03/03/1239734/ngay-quoc-te-phu-nu-8-3-nguon-goc-y-nghia-lich-su-202302041112264459.jpg" alt="QUỐC TẾ PHỤ NỮ">
@@ -140,5 +191,8 @@
         <textarea id="message" name="messagre" rows="4" cols="50" placeholder="gửi lời chúc yêu thương đến những người phụ nữ"></textarea>
          <button type="submit"> Gửi</button>
     </section>
+    <footer>
+    <p>© báo tường ngày 8/3  - Tạo bởi [Linh,Vân,Huy,Quỳnh Anh 12b4]</p>
+on>
     <footer>
     <p>© báo tường ngày 8/3  - Tạo bởi [Linh,Vân,Huy,Quỳnh Anh 12b4]</p>
